@@ -1,0 +1,9 @@
+*.o
+*.oelf
+*.bin
+*.elf
+*.tmp
+*.map
+.idea
+.vscode
+.vs
